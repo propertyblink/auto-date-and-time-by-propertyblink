@@ -5,7 +5,6 @@ Requires at least: 4.0
 Tested up to: 6.3.2
 Stable tag: 1.0
 License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
@@ -43,7 +42,7 @@ A: Yes, you can customize the date format within the shortcode. For example, `[c
 == Support ==
 
 For support or inquiries, please [visit our homepage](https://propertyblink.com/).
-
+Or you can also visit our [Property Management Services](https://propertyblink.com/property-management) to see Demo or get support from our experts.
 
 == Changelog ==
 
