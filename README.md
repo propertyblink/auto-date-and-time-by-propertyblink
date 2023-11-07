@@ -41,7 +41,7 @@ A: Yes, you can customize the date format within the shortcode. For example, `[c
 
 == Support ==
 
-For support or inquiries, please visit [Propertyblink](https://propertyblink.com) page to see Demo or get support from our experts.
+For support or inquiries, please visit [Propertyblink](https://propertyblink.com) then use contact us page to get support from our experts.
 
 == Changelog ==
 
